@@ -17,14 +17,14 @@ Answer these two prompts in your own words:
    (Think about the *background knowledge* or *technical concepts* you may not fully understand yet.)
 
    ---
-
+   Enter your response here...
    ---
 
 3. **Why might this knowledge matter in your own life, even if you’re not planning to work in AI?**  
    (Be specific — think about school, work, your community, your future.)
 
    ---
-
+   Enter your response here...
    ---
 
 ---
